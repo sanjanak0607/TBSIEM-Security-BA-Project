@@ -23,3 +23,8 @@ Wireframing, Market Research, Presentation Skills
 
 ## Figma Wireframe - Live Prototype
 [Click here to view dashboard](https://www.figma.com/proto/3zr10Ow2xS3oLBKgXdMFPr/Assessment-dashboard?node-id=0-1&t=sUjPwMPJmkwM0SOT-1)
+
+## Context
+This project was completed as a Business Analyst assessment 
+task. It demonstrates core BA skills including requirements 
+documentation, stakeholder analysis, and dashboard design.
